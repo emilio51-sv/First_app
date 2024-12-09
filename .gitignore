@@ -1,0 +1,3 @@
+# Ignora i file sensibili
+.streamlit/secrets.toml
+
